@@ -86,3 +86,48 @@ color: #FFFFFF
 .menu{
     margin-top: 35px;
 }
+.section2{
+    margin-top: 100px;
+}
+.services-text > p{
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #8643DC;
+}
+.line{
+    margin-top: 10px;
+    border: 2px;
+    background-color: #8643DC;
+    width: 50px;
+    height: 2px;
+}
+.services-text > h2{
+    margin-top: 15px;
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 48px;
+     color: #25202F;
+}
+.services-content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    width: 350px;
+}
+.content-img{
+    display: flex;
+    align-items: center;
+}
+.content-img > h2{
+    margin-left: 20px;
+}
+.content > p{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #47444E;
+}
