@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header{
+    display: flex;
+    padding-top: 65px;
+}
+
+.links{
+    margin-left: 100px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 338px;
+}
+.links>a{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+color: darkgray;
+
+color: #25202F;
+
+}
+.links .active{
+    color: #25202F;
+}
+
+.aboutus{
+    margin-top: 125px;
+}
+.aboutush3{
+    color: darkgray;
+    font-size: 24px;
+    font-weight: 100;
+
+}
+.aboutus1{
+    font-size: 58px;
+
+}
+.aboutus>p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #25202F;
+}
+.btn{
+    margin-top: 50px;
+    width: 200px;
+    height: 60px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    border: none;
+}
+.btn>a{
+ font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #FFFFFF
+}
+
+.rightside{
+    display: flex;
+    margin-top: 45px;
+}
+.menu{
+    margin-top: 35px;
+}
